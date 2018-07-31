@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="19029" started-at="2018-07-31T06:25:18Z" finished-at="2018-07-31T06:25:37Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="19029" started-at="2018-07-31T06:25:18Z" finished-at="2018-07-31T06:25:37Z">
+      <class name="Find_Broken_links.TestPage">
+        <test-method status="PASS" signature="go()[pri:0, instance:Find_Broken_links.TestPage@1c62251]" name="go" is-config="true" duration-ms="3217" started-at="2018-07-31T06:25:18Z" finished-at="2018-07-31T06:25:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- go -->
+        <test-method status="PASS" signature="link()[pri:0, instance:Find_Broken_links.TestPage@1c62251]" name="link" duration-ms="15790" started-at="2018-07-31T06:25:21Z" finished-at="2018-07-31T06:25:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- link -->
+      </class> <!-- Find_Broken_links.TestPage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

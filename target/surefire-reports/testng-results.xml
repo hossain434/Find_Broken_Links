@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Find_Broken_links.AppTest" duration-ms="4686" started-at="2018-07-31T06:19:01Z" finished-at="2018-07-31T06:19:06Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="4686" started-at="2018-07-31T06:19:01Z" finished-at="2018-07-31T06:19:06Z">
+      <class name="Find_Broken_links.AppTest">
+        <test-method status="PASS" signature="goTo()[pri:0, instance:Find_Broken_links.AppTest@506e6d5e]" name="goTo" duration-ms="4677" started-at="2018-07-30T23:19:01Z" finished-at="2018-07-30T23:19:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goTo -->
+      </class> <!-- Find_Broken_links.AppTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Find_Broken_links.AppTest -->
+</testng-results>
